@@ -1,8 +1,8 @@
 # Sample Jetty WebApplication Project
-A Sample maven based web application project that can be deployed to Jetty Web Server.
+####A Sample maven based web application project that can be deployed to Jetty Web Server.
 
-	<b>Highlights</b>
-
+	###Highlights
+	===============
 	1.Using Jetty maven plugin for running jetty in eclipse with configurations
 		a.to hot deploy code (target/classes)
 		b.with a context root (/jetweb)
@@ -13,7 +13,7 @@ A Sample maven based web application project that can be deployed to Jetty Web S
 
 	3.Using @@WebServlet annotation to register servlet
 
-	Setup Instructions
+	###Setup Instructions
 	=====================
 	1.Clone repository
 	2.Import as existing maven project into eclipse
